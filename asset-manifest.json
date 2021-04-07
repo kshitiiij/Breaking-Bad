@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Breaking-Bad/static/js/main.49203cfc.chunk.js",
+    "main.js.map": "/Breaking-Bad/static/js/main.49203cfc.chunk.js.map",
+    "runtime-main.js": "/Breaking-Bad/static/js/runtime-main.79e9cc17.js",
+    "runtime-main.js.map": "/Breaking-Bad/static/js/runtime-main.79e9cc17.js.map",
+    "static/js/2.eba15173.chunk.js": "/Breaking-Bad/static/js/2.eba15173.chunk.js",
+    "static/js/2.eba15173.chunk.js.map": "/Breaking-Bad/static/js/2.eba15173.chunk.js.map",
+    "static/js/3.6e7a5173.chunk.js": "/Breaking-Bad/static/js/3.6e7a5173.chunk.js",
+    "static/js/3.6e7a5173.chunk.js.map": "/Breaking-Bad/static/js/3.6e7a5173.chunk.js.map",
+    "index.html": "/Breaking-Bad/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Breaking-Bad/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eba15173.chunk.js.LICENSE.txt": "/Breaking-Bad/static/js/2.eba15173.chunk.js.LICENSE.txt",
+    "static/media/logo.e6ecab44.png": "/Breaking-Bad/static/media/logo.e6ecab44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e9cc17.js",
+    "static/js/2.eba15173.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.49203cfc.chunk.js"
+  ]
+}
