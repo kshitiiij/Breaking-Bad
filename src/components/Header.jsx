@@ -6,7 +6,7 @@ import logo from '../images/logo.png';
 const useStyle = makeStyles(
     {   
         header : {
-            background : '#000',
+            background : '#171c02',
             padding : 5
         },
         image : {

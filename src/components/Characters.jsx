@@ -3,8 +3,8 @@ import {Grid,Box} from '@material-ui/core';
 
 const Characters = ({ data }) => {
     return (
-        <Box style = { {margin:20} }>
-            <Grid container spacing = {4}>
+        <Box style = { {margin:10} }>
+            <Grid container spacing = {2}>
                 {
                     data.map(item => (
                         <Grid item xs ={3}>
